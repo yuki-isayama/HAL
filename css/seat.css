@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,div,p,h1,h2,h3,ul,li,img,a{
+	margin:0;
+	padding:0;
+	border:0;
+	}
+
+
+body{
+	font-family:メイリオ;
+	}
+	body a{
+		color:#4369BC;
+		}
+	
+#wrapper{
+	width:960px;
+	height:1200px;
+	margin:0 auto;
+	/*background-color:#f8f8f8;*/
+	}
+	#header{
+		width:960px;
+		height:120px;
+		margin:0 auto;
+		background-color:#FFFFFF;
+		}
+		#logo{
+			width:300px;
+			height:70px;
+			float:left;
+			}
+		/*#login{
+			width:400px;
+			height:40px;
+			margin-top:10px;
+			font-size:14px;
+			background-color:#f8f8f8;
+			float:right;
+			}
+			/*#loginButton{
+				background-color:#FF1A2B;
+				border-radius:6px;
+				-moz-border-radius:6px;
+				-webkit-border-radius:6px;
+				border:0;
+				font-family:メイリオ;
+				color:#FFFFFF;
+				}
+			#login #error{
+				width:400px;
+				height:20px;
+				font-size:11px;
+				color:red;
+				margin-left:100px;
+				}*/
+		#loginArea{
+			width:240px;
+			height:20px;
+			margin-top:20px;
+			float:right;
+			}
+			#loginArea ul{
+				width:240px;
+				height:20px;
+				font-size:13px;
+				list-style-type:none;
+				}
+				#loginArea ul li{
+					width:80px;
+					height:20px;
+					float:left;
+					}
+		#global{
+			width:960px;
+			height:50px;
+			margin-top:10px;
+			clear:both;
+			}
+			#global ul{
+				width:960px;
+				height:50px;
+				list-style-type:none;
+				}
+				#global ul li{
+					width:192px;
+					height:50px;
+					float:left;
+					}
+					#footer{
+						width:960px;
+						height:30px;
+						background-color:#333333;
+						padding-top:70px;
+						}
+		#footer ul{
+			width:357px;
+			height:20px;
+			list-style-type:none;
+			font-size:11px;
+			float:left;
+			}
+			#footer ul li{
+				height:20px;
+				float:left;
+				padding:0 10px;
+				}
+				#footer ul li a{
+					color:#FFFFFF;
+					}
+		#footer p{
+			width:260px;
+			height:20px;
+			float:right;
+			font-size:11px;
+			color:#FFFFFF;
+			}
+			#ticket{
+				widows: 960px;
+				height: 200px;
+				margin-top:20px;
+				margin-bottom: 10px;
+				border-radius: 20px;
+				border:1px solid black;
+			}
+			#ticketname{
+				width: 100px;
+				height: 200px;
+				border-right: 1px dashed black;
+				float: left;
+			}
+			#ticketsub{
+				width: 850px;
+				height: 200px;
+				
+			}
+			#ticketname img{
+				margin-top:25px;
+				margin-left: 25px;
+			}
+			#theaterNo{
+				height: 60px;
+			}
+
+			#theaterNo img{
+				margin: 0px;
+				float: left;
+			}
+			#day p{
+				margin-right: 10px;			
+		}

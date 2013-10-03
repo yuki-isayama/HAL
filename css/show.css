@@ -1,0 +1,108 @@
+/* CSS Document */
+
+#main{
+	margin-top:0;
+	height:1150px;
+	}
+#contents{
+	width:750px;
+	height:auto;
+	}
+#pankuzu{
+	width:740px;
+	height:18px;
+	font-size:11px;
+	padding-top:2px;
+	padding-left:10px;
+	}
+.showArea{
+	width:730px;
+	height:auto;
+	}	
+	.showArea ul#showContent{
+		width:730px;
+		height:auto;
+		margin-top:10px;
+		margin-left:10px;
+		padding-bottom:10px;
+		}
+	.showArea ul#showContent li.list{
+		width:730px;
+		height:200px;
+		list-style-type:none;
+		margin-bottom:20px;
+		}
+		.showArea ul#showContent li.list img{
+			width:140px;
+			height:200px;
+			float:left;
+			margin-left:10px;
+			}
+		.showArea .detArea{
+			width:549px;
+			height:199px;
+			border:1px solid #dddddd;
+			float:left;
+			margin-left:20px;
+			}
+			.showArea .detArea p.title{
+				width:500px;
+				height:20px;
+				background-color:#FFFFFF;
+				text-align:center;
+				margin:0 auto;
+				margin-top:10px;
+				}
+			/*.showArea .detArea p.det{
+				width:500px;
+				height:100px;
+				background-color:#FFFFFF;
+				font-size:12px;
+				margin-top:10px;
+				margin-left:25px;
+				text-align:start;
+				}*/
+				.showArea .detArea p.actor{
+					width:490px;
+					height:70px;
+					background-color:#FFFFFF;
+					font-size:13px;
+					text-align:left;
+					padding-left:10px;
+					margin:10px auto;
+					}
+				/*.showArea .detArea p.schedule{
+					width:500px;
+					height:70px;
+					background-color:#FFFFFF;
+					border-radius:5px;
+					margin:0 auto;
+					}*/
+					ul.schedule{
+						width:500px;
+						height:60px;
+						background-color:#FFFFFF;
+						border-radius:5px;
+						border:1px solid #333333;
+						margin:0 auto;
+						list-style-type:none;
+						}
+						ul.schedule li{
+							width:99px;
+							height:60px;
+							font-size:13px;
+							text-align:center;
+							float:left;
+							}
+						ul.schedule li.first{
+							border-right:1px solid #333333;
+							}
+							ul.schedule li a{
+								width:100px;
+								height:60px;
+								}
+						ul.schedule li.line{
+							border-left:1px dashed #333333;
+							}
+							
+					

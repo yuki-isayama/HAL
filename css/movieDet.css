@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main{
+	font-family:メイリオ;
+	font-weight:90;
+	margin:auto;
+	width:960px;
+
+	}
+
+#visual{	
+	margin-bottom:20px;
+	margin-right:20px;
+	float:left;
+	width:260px;
+	height:320px;
+	}
+	
+#img{
+	margin-left:20px;
+	}
+	
+#word{
+	margin-bottom:20px;
+	background-color:#f8f8f8;
+	float:right;
+	width:650px;
+	height:320px;
+	}
+	
+#title{
+	font-size:17px;
+	}
+	
+#setsumei{
+	font-size:13px;
+	}
+	
+#schedule{
+	clear:both;
+	width:940px;
+	height:400px;
+	}
+	
+#schedule_menu{
+	width:960px;
+	height:300px;
+	border:#333 solid 2px;
+	border-radius:2px;
+	}
+	
+#schedule_naiyou{
+	padding-left:20px;
+	float:left;
+	margin-top:20px;
+	width:600px;
+	height:70px;
+	border:#333 solid 2px;
+	border-radius:5px;
+	}
+	
+#schedule_day{
+	color:#FFF;
+	background-color:#fe192e;
+	float:left;
+	margin-top:20px;
+	padding-left:5px;
+	width:100px;
+	height:70px;
+	border:#333 solid 2px;
+	border-radius:5px;
+	}
+	
+#schedule_gyou{
+	clear:both;
+	margin-left:50px;
+	}
+
+#schedule_theater{
+	line-height:65%;
+	margin-top:20px;
+	padding-left:5px;
+	float:left;
+	width:70px;
+	height:70px;
+	border:#333 solid 2px;
+	border-radius:5px;
+	}

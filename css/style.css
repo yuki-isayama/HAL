@@ -1,0 +1,40 @@
+#main{
+	margin:0 auto;
+	width:960px;
+	height:200px;
+}
+
+#sentaku{
+	list-style-type: none;
+	float:left;
+}
+
+#sentaku li{
+	margin-top:10px;
+}
+
+#kinngaku2{
+	list-style-type:none;
+	float:left;
+}
+
+#kinngaku2 li{
+	margin-top:10px;
+}
+
+#kinngaku{
+	
+}
+
+#purudanoul{
+	margin-top: 10px;
+}
+#pu{
+	margin-top:0px;
+}
+#pu2{
+	margin-top: 10px;
+}
+#pu3{
+	margin-top: 10px;
+}
